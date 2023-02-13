@@ -4,6 +4,11 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zuphilip/holepunch-compendium-workshop/docker?urlpath=rstudio)
+<!-- badges: end -->
+
+
 ```{r, echo = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
